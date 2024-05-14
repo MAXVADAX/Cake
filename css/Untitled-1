@@ -1,0 +1,47 @@
+.one {
+  background-image:url(https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTHtQ-eXsljBaNo7G4AjmJe01i82aVyxRn0mO0C4SFj0ZS7sqMY_v8GW6b-vsMDwbz1);
+  background-size: cover;
+  width: 1340px;
+  height: 200px;
+}
+.two {
+  color: black;
+  font-size: 35px;
+}
+.three {
+  color: black;
+  font-size: 30px;
+}
+.one2 {
+  text-align: right;
+top: 100px;
+left: 40px;
+}
+.tr {
+  font-size: 30px;
+}
+.gg {
+  background-image: url(https://youtube.com/embed/-XnRECTBGTs?autoplay=1&enablejsapi=1&origin=https://www.bing.com&rel=0&mute=0);
+  background-size: cover;
+  width: 1000px;
+  height: 900px;
+}
+.pk {
+  background-image: url(https://aif-s3.aif.ru/images/009/987/002d5e930aab5f9ba840f374a3e142aa.jpg);
+  background-size: cover;
+  width: 400px;
+  height: 300px;
+}
+.pp {
+  background-image: url(https://gotovimop.com/wp-content/uploads/2020/12/jarkij-tort-na-den-rozhdenija.jpg);
+  background-size: cover;
+  width: 400px;
+  height: 300px;
+  text-align: right;
+}
+.pt {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfkaJZqftroMqZnovS8iiyqBPrKgHygHMohUiGbMtAw&s);
+  background-size: cover;
+  width: 400px;
+  height: 300px;
+}
